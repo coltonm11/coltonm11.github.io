@@ -1,12 +1,16 @@
 ManifestFileVersion: 0
-CRC: 1792031330
+UnityVersion: 6000.0.31f1
+CRC: 1594560701
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 70656f775feac911232dc5bee63b177d
+    Hash: e92abdb82d191be0e44473b314351c77
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 41f2f6cf98145af5bfa833c72f2a49a2
+    Hash: b0155ba1ff8aedba6f83ae43458d7525
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3379aca4a629a1f9a9aa905a690a8097
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -17,7 +21,12 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.2D.Animation.Runtime
+  ClassName: UnityEngine.U2D.Animation.SpriteCategoryEntry
+- AssemblyName: Unity.2D.Animation.Runtime
+  ClassName: UnityEngine.U2D.Animation.SpriteLibCategory
 Assets:
-- Assets/Samples/2D Animation/3.2.4/Samples/5 SpriteSwap/Sprites/Rikr Rage.png
 - Assets/Samples/2D Animation/3.2.4/Samples/5 SpriteSwap/Sprite Library/Rikr Rage.asset
+- Assets/Samples/2D Animation/3.2.4/Samples/5 SpriteSwap/Sprites/Rikr Rage.png
 Dependencies: []
